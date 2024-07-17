@@ -21,7 +21,7 @@
   }
   
   .text {
-    color: #3c009d;
+    color: #9d1f00;
     font-size: 36px; /* Adjust font size if necessary */
     font-weight: 700;
   }
@@ -29,7 +29,7 @@
   .underline {
     width: 50px; /* Adjust the width to your preference */
     height: 4px;
-    background: #3c009d;
+    background: #9d1f00;
     border-radius: 2px;
   }
   
@@ -72,7 +72,7 @@
   }
   
   .forgot-password span {
-    color: #4c00b4;
+    color: #b42a00;
     cursor: pointer;
   }
   
@@ -89,10 +89,14 @@
     width: 150px; /* Adjust the width to your preference */
     height: 40px; /* Adjust the height to your preference */
     color: #fff;
-    background: #4c00b4;
+    background: #b43300;
     border-radius: 20px;
     font-size: 16px; /* Adjust font size if necessary */
     font-weight: 700;
     cursor: pointer;
+  }
+  .gray{
+    background: #eaeaea;
+    color: #676767;
   }
   
